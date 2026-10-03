@@ -1,0 +1,14 @@
+PUBLIC WEBSITE FILES ONLY
+
+1. Open your existing thangotech/thango-atlas-ev repository.
+2. Code > Add file > Upload files.
+3. Select ALL files and the assets folder inside this extracted ZIP.
+   Do not upload the ZIP or the outer folder.
+4. Commit to main; retain Pages: main / (root).
+5. Once deployment completes, refresh the website.
+
+Only this public package belongs on GitHub Pages.
+The separate PRIVATE_OWNER pack, supplied signature, certificate templates and SQL must stay private.
+The logo is public branding and is safe to upload.
+
+The atlas and reading pages update now. Registered accounts, owner-only statistics and signed certificates will remain unavailable until the private backend is configured and tested.
